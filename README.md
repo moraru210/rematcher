@@ -1,5 +1,15 @@
-# Final Year Project - REMATCHER
+# REMATCHER
 Rematcher - A repository dedicated for my final year project at Imperial College London. 
+
+## Submitting Pull Requests 🔁 
+This project encourages pull requests! Before forking the repo and creating a pull request for non-trivial changes, it is usually best to first open an issue to discuss the changes, or discuss your intended approach for solving the problem in the comments for an existing issue.
+
+General things to keep in mind:
+- Use the repo's default branch
+- Try not to be vague with change description
+- Resolve any merge conflicts that occur
+
+Please contact <alexandru210moraru@gmail.com> for any further inquiries.
 
 ## How To Start
 ```
@@ -99,3 +109,6 @@ go generate.go MAX_CLIENTS MAX_SERVERS MAX_PER_SERVER
 ```
 
 Where the paramaters utilised should match exactly the ones utilised in the data-plane code.
+
+## Credits
+Marios Kogias - Supervisor to the Master's project and has directly assisted with the creation of this project
